@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satomko
-- 👀 I’m interested in full-stack development (NodeJS/React, Java)
-- 🌱 I’m currently learning NodeJS/React
+- 👀 I’m interested in full-stack development (NodeJS/React, Java, Rust)
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on (??? not sure yet ???)
 - 📫 How to reach me ...
 
